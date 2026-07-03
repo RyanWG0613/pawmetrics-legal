@@ -1,52 +1,46 @@
-PawMetrics Privacy Policy
+# PawMetrics Privacy Policy
 
-Last Updated: July 2026
+**Last updated:** July 3, 2026  
+**Contact:** pawmetrics.support@gmail.com
 
-Introduction
+PawMetrics is local-first. Your athlete data stays on your device unless you choose to export or email it. We do not operate cloud accounts or sync your records to PawMetrics servers.
 
-PawMetrics (“we,” “our,” or “us”) respects your privacy. This Privacy Policy explains how information is handled when you use the PawMetrics mobile application.
+## Who We Are
 
-Information We Collect
+PawMetrics is a dog sports tracking app published by Ryan Gordon ("we," "us," or "our"). This policy explains how the app handles information when you use PawMetrics on your iPhone or iPad.
 
-PawMetrics allows users to enter information about their dogs, records, achievements, goals, and competition history.
+## Information Stored on Your Device
 
-All information entered into PawMetrics is stored locally on your device.
+PawMetrics stores the information you enter, including athlete profiles, competition results, titles, goals, achievements, event notes, registration details, and photos you attach. This data is saved locally using Apple's on-device storage on your device. We do not upload this athlete data to PawMetrics servers.
 
-At this time, PawMetrics does not require user accounts and does not collect personal information for registration purposes.
+## Photos and Camera Roll Access
 
-Data Storage
+If you add a photo, PawMetrics accesses the image you select through Apple's photo picker and saves a compressed copy on your device. We do not automatically upload photos to the cloud or to our servers.
 
-Data entered into PawMetrics is stored on the user’s device using Apple’s local storage technologies.
+## Export, Backup, and Import
 
-We do not currently operate servers that collect, store, or process user data.
+You can export a full backup file from Settings. Backups may include athlete data and photo files you choose to save to Files, iCloud Drive, or another location you control. Importing a backup restores data you previously exported. PawMetrics does not manage or access backups stored outside the app unless you choose to import them.
 
-Analytics and Diagnostics
+## Support and Feedback Email
 
-PawMetrics may receive anonymous crash reports and diagnostic information provided through Apple to help improve app stability and performance.
+If you contact us by email, send a bug report, or request a feature, your message is handled by your Mail app and our support inbox (pawmetrics.support@gmail.com). You choose what to write. If you use in-app feedback tools, PawMetrics may attach a diagnostics text file with app version, device model, iOS version, selected athlete name, and stored data counts to help us troubleshoot. We use support messages only to respond to you and improve the app.
 
-This information does not personally identify users.
+## What We Do Not Collect
 
-Third-Party Services
+PawMetrics does not require an account, does not sell your data, and does not use third-party advertising or analytics SDKs to track you across apps or websites. Performance charts and insights in the app are calculated on your device from your own records.
 
-PawMetrics may utilize services provided by Apple, including:
+## Demo Data
 
-* App Store
-* TestFlight
-* iCloud (if enabled in future updates)
+The optional demo athlete is sample data provided for exploration. It is stored locally like your own data and can be removed from Settings.
 
-These services are governed by Apple’s privacy policies.
+## Children's Privacy
 
-Children’s Privacy
+PawMetrics is not directed to children under 13, and we do not knowingly collect personal information from children. If you believe a child has provided personal information through support email, contact us and we will delete it from our inbox.
 
-PawMetrics is not directed toward children under the age of 13.
+## Data Retention and Deletion
 
-Changes to This Policy
+Data in the app remains on your device until you delete it, replace it with an import, or delete the app. Deleting PawMetrics removes local app data from your device. Export a backup first if you want to keep a copy.
 
-This Privacy Policy may be updated from time to time. Any updates will be posted within the application and/or through updated policy links.
+## Changes to This Policy
 
-Contact
-
-If you have questions about this Privacy Policy, contact:
-
-PawMetrics Support
-pawmetrics.support@gmail.com
+We may update this Privacy Policy from time to time. We will update the "Last updated" date in the app and in this document. Continued use of the app after changes means you accept the updated policy.
