@@ -10,6 +10,24 @@ Description of Service
 
 PawMetrics is a dog sports tracking application designed to help users record and manage information related to their dogs, including performance records, achievements, goals, titles, milestones, and competition history.
 
+## Subscriptions
+
+PawMetrics may offer optional auto-renewable subscriptions, including monthly and yearly plans, that unlock PawMetrics Pro features.
+
+Subscriptions are billed through your Apple ID account. Payment will be charged to your Apple ID account at confirmation of purchase.
+
+Subscriptions automatically renew unless they are cancelled at least 24 hours before the end of the current billing period.
+
+Your account may be charged for renewal within 24 hours prior to the end of the current billing period.
+
+You can manage or cancel your subscription at any time through your Apple ID subscription settings.
+
+Any unused portion of a free trial period, if offered, may be forfeited when you purchase a subscription.
+
+Refunds are handled by Apple according to Apple’s policies. PawMetrics cannot process App Store subscription refunds directly.
+
+Features labeled “Coming Soon” are not currently included in your subscription.
+
 User Responsibilities
 
 You are responsible for:
