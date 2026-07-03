@@ -1,4 +1,4 @@
-PawMetrics Terms of Use
+PawMetrics Terms of Use 
 
 Last Updated: July 2026
 
