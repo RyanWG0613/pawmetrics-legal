@@ -1,89 +1,68 @@
-PawMetrics Terms of Use 
+# PawMetrics Terms of Service
 
-Last Updated: July 2026
+**Last updated:** July 3, 2026  
+**Contact:** pawmetrics.support@gmail.com
 
-Acceptance of Terms
+By downloading or using PawMetrics, you agree to these Terms. If you do not agree, do not use the app.
 
-By downloading, accessing, or using PawMetrics (“the App”), you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the App.
+## The App
 
-Description of Service
+PawMetrics helps you track dog sports performance, titles, goals, and related athlete information for personal use. The app is provided by Ryan Gordon and may be offered as a beta, TestFlight, or App Store release.
 
-PawMetrics is a dog sports tracking application designed to help users record and manage information related to their dogs, including performance records, achievements, goals, titles, milestones, and competition history.
+## License
 
-## Subscriptions
+We grant you a personal, non-exclusive, non-transferable license to use PawMetrics on Apple devices you own or control, subject to these Terms and Apple's App Store terms where applicable.
 
-PawMetrics may offer optional auto-renewable subscriptions, including monthly and yearly plans, that unlock PawMetrics Pro features.
+## Your Content
 
-Subscriptions are billed through your Apple ID account. Payment will be charged to your Apple ID account at confirmation of purchase.
+You retain ownership of the information and photos you enter. You are responsible for the accuracy of your records and for complying with any rules of sport organizations, events, or venues you track in the app.
 
-Subscriptions automatically renew unless they are cancelled at least 24 hours before the end of the current billing period.
+## Backups and Data Loss
 
-Your account may be charged for renewal within 24 hours prior to the end of the current billing period.
+PawMetrics stores data locally on your device. We do not provide cloud backup. You are responsible for exporting and safeguarding backups of data you care about. We are not liable for loss of data caused by device failure, app deletion, failed imports, or user error.
 
-You can manage or cancel your subscription at any time through your Apple ID subscription settings.
+## PawMetrics Pro Subscriptions
 
-Any unused portion of a free trial period, if offered, may be forfeited when you purchase a subscription.
+PawMetrics Pro is an optional auto-renewable subscription that unlocks premium features in the app.
 
-Refunds are handled by Apple according to Apple’s policies. PawMetrics cannot process App Store subscription refunds directly.
+**Subscription plans.** PawMetrics Pro is available as a monthly plan (`pawmetrics_pro_monthly`) and a yearly plan (`pawmetrics_pro_yearly`). Plan names, prices, and any introductory offers (such as a free trial) are shown in the app at the time of purchase and may vary by region.
 
-Features labeled “Coming Soon” are not currently included in your subscription.
+**Automatic renewal.** Payment will be charged to your Apple ID account at confirmation of purchase. Your subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period at the price of the selected plan.
 
-User Responsibilities
+**Managing subscriptions.** You can manage or cancel your subscription at any time in your device Settings under Apple ID → Subscriptions. Cancellation takes effect at the end of the current billing period. You will continue to have access to PawMetrics Pro until the end of the period you have already paid for.
 
-You are responsible for:
+**Refunds.** Payments and refunds are handled by Apple in accordance with Apple's policies. PawMetrics does not process subscription payments directly and cannot issue App Store refunds. For refund requests, contact Apple Support or report a problem at [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
-* Maintaining the accuracy of information entered into the App.
-* Ensuring any data you choose to store is appropriate and lawful.
-* Using the App in compliance with all applicable laws and regulations.
+**Changes to Pro features.** Premium features may change over time as the app evolves. Features labeled in the app as "Coming Soon" are not currently included in your subscription.
 
-Data and Backups
+## Beta and TestFlight Releases
 
-Users are responsible for maintaining backups of their own data.
+Pre-release versions may contain bugs, incomplete features, or changes before public launch. Features may be added, modified, or removed. Beta software is provided for testing and feedback.
 
-While PawMetrics strives to provide reliable data storage and export functionality, we cannot guarantee that data will never be lost due to device failure, software issues, or other unforeseen circumstances.
+## No Professional Advice
 
-Intellectual Property
+PawMetrics is a record-keeping and tracking tool only. It does not provide veterinary, training, legal, or competition eligibility advice. Always verify official results, titles, and rules with the relevant organization.
 
-PawMetrics and all associated content, branding, logos, graphics, and software are the property of PawMetrics and are protected by applicable intellectual property laws.
+## Acceptable Use
 
-You may not:
+You agree not to misuse the app, attempt to reverse engineer it, interfere with its operation, or use it in violation of applicable law. You may not use PawMetrics to harass others or submit unlawful content through support channels.
 
-* Copy, modify, distribute, or reverse engineer the App.
-* Use PawMetrics branding without permission.
-* Attempt to interfere with the operation of the App.
+## Disclaimer of Warranties
 
-Availability
+PawMetrics is provided "as is" and "as available" without warranties of any kind, whether express or implied, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-We reserve the right to modify, suspend, or discontinue any feature of the App at any time without prior notice.
+## Limitation of Liability
 
-Disclaimer of Warranties
+To the fullest extent permitted by law, Ryan Gordon will not be liable for any indirect, incidental, special, consequential, or punitive damages, or for loss of data, profits, or goodwill, arising from your use of PawMetrics. Our total liability for any claim relating to the app will not exceed the amount you paid for the app in the twelve months before the claim, or USD $10 if the app was free.
 
-PawMetrics is provided on an “as is” and “as available” basis.
+## Termination
 
-We make no guarantees regarding:
+You may stop using PawMetrics at any time by deleting the app. We may suspend or discontinue the app or these Terms where permitted by law.
 
-* Accuracy of user-entered data
-* Availability of the App
-* Fitness for a particular purpose
-* Error-free operation
+## Changes to These Terms
 
-Use of the App is at your own risk.
+We may update these Terms from time to time. Material changes will be reflected by updating the "Last updated" date in the app and this document. Your continued use after changes constitutes acceptance.
 
-Limitation of Liability
+## Contact
 
-To the fullest extent permitted by law, PawMetrics shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from the use of or inability to use the App.
-
-Third-Party Services
-
-The App may rely on services provided by Apple or other third parties. Those services are governed by their own terms and policies.
-
-Changes to These Terms
-
-We may update these Terms of Use from time to time. Continued use of the App after changes become effective constitutes acceptance of the updated Terms.
-
-Contact
-
-For questions regarding these Terms of Use, contact:
-
-PawMetrics Support
-pawmetrics.support@gmail.com
+For questions about these Terms, contact pawmetrics.support@gmail.com.
